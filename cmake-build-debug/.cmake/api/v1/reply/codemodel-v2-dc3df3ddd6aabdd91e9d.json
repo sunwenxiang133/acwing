@@ -1,0 +1,600 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "acwing",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "0101bag::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-0101bag-Debug-bc4cc9e4d063a1235977.json",
+					"name" : "0101bag",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01_Trie::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_Trie-Debug-7b65f73aa68fd0199751.json",
+					"name" : "01_Trie",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01dan_lian_biao::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01dan_lian_biao-Debug-8734a105306c12610b4a.json",
+					"name" : "01dan_lian_biao",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01ha_xi_biao_lalian::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01ha_xi_biao_lalian-Debug-c37d4dcbd5156cea7e25.json",
+					"name" : "01ha_xi_biao_lalian",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01paidui_da_shui::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01paidui_da_shui-Debug-3728106bb97b56c48fda.json",
+					"name" : "01paidui_da_shui",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01pailie_shuzi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01pailie_shuzi-Debug-30b4549007d1044d890e.json",
+					"name" : "01pailie_shuzi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01pusu_Dijkstra::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01pusu_Dijkstra-Debug-7726c13d499480e189ae.json",
+					"name" : "01pusu_Dijkstra",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01qujian_xuandian::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01qujian_xuandian-Debug-898bac4732e694c2d802.json",
+					"name" : "01qujian_xuandian",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01shuang_zhi_zhen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01shuang_zhi_zhen-Debug-959de60d6ac16d95e80b.json",
+					"name" : "01shuang_zhi_zhen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01test-Debug-54af0ea13d7957288d6b.json",
+					"name" : "01test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "0201bag_better::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-0201bag_better-Debug-6eabb82f6b6ddd69a5d1.json",
+					"name" : "0201bag_better",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02N_huanghou_wenti::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02N_huanghou_wenti-Debug-038e08a63c5d64acf4f7.json",
+					"name" : "02N_huanghou_wenti",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02_he_bing_jin_he::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02_he_bing_jin_he-Debug-76a7c90607c27c7e265c.json",
+					"name" : "02_he_bing_jin_he",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02dui_Dijkstra::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02dui_Dijkstra-Debug-3f19a511ef7339de8545.json",
+					"name" : "02dui_Dijkstra",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02ha_xi_biao_kaifang::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02ha_xi_biao_kaifang-Debug-52b768bbe7f7c4965ffb.json",
+					"name" : "02ha_xi_biao_kaifang",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02huocang_xuanzhi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02huocang_xuanzhi-Debug-4fb2de2c00567f0f91fe.json",
+					"name" : "02huocang_xuanzhi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02large_number_subtraction::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02large_number_subtraction-Debug-43f3c475da0b32601771.json",
+					"name" : "02large_number_subtraction",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02shuang_lian_biao::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02shuang_lian_biao-Debug-494d9056b9d564d73007.json",
+					"name" : "02shuang_lian_biao",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02shuang_zhi_zhen_buchongfu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02shuang_zhi_zhen_buchongfu-Debug-d5de4ac448c57e0aacd7.json",
+					"name" : "02shuang_zhi_zhen_buchongfu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02zuida_buxiangjiao::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02zuida_buxiangjiao-Debug-3ee0467e38fc30df2deb.json",
+					"name" : "02zuida_buxiangjiao",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03N_huanghou_wenti2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03N_huanghou_wenti2-Debug-49d0e419d93300ca08fe.json",
+					"name" : "03N_huanghou_wenti2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03erjinzhi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03erjinzhi-Debug-4b923861b892a96bc8b7.json",
+					"name" : "03erjinzhi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03large_number_multiplication::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03large_number_multiplication-Debug-b77e5069565479b0bd8e.json",
+					"name" : "03large_number_multiplication",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03lian_tong_kuai_dian_shu_liang::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03lian_tong_kuai_dian_shu_liang-Debug-20f26e9f6fc7c0671c12.json",
+					"name" : "03lian_tong_kuai_dian_shu_liang",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03qujian_fenzu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03qujian_fenzu-Debug-e64b1b73407b23629be7.json",
+					"name" : "03qujian_fenzu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03shuazaji_deniu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03shuazaji_deniu-Debug-c36e669ba528c0367a9d.json",
+					"name" : "03shuazaji_deniu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03wanquan_beibao::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03wanquan_beibao-Debug-019e6249e0d1618636db.json",
+					"name" : "03wanquan_beibao",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03zhan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03zhan-Debug-bd9616613de440bcd618.json",
+					"name" : "03zhan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03zifuchuan_haxi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03zifuchuan_haxi-Debug-db6210ce6f4af883230e.json",
+					"name" : "03zifuchuan_haxi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04dui::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04dui-Debug-b1e56888653d4a3ab340.json",
+					"name" : "04dui",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04dui_lie::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04dui_lie-Debug-04aa380bf9eae7c9e624.json",
+					"name" : "04dui_lie",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04qujian_fugai::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04qujian_fugai-Debug-63ba02da79a188bb2d91.json",
+					"name" : "04qujian_fugai",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04wanquan_beibao_better::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04wanquan_beibao_better-Debug-9f8c23ae28ebd6fb19f1.json",
+					"name" : "04wanquan_beibao_better",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04yi_de_ge_shu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04yi_de_ge_shu-Debug-dba56bceffe58c750608.json",
+					"name" : "04yi_de_ge_shu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04zou_migong::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04zou_migong-Debug-41ca892edc760642a6c2.json",
+					"name" : "04zou_migong",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05dan_diao_zhan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05dan_diao_zhan-Debug-8cb9d98f85683b63b77e.json",
+					"name" : "05dan_diao_zhan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05fan_ma::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05fan_ma-Debug-42ac786915263f7b3df8.json",
+					"name" : "05fan_ma",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05hebing_guozi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05hebing_guozi-Debug-10e2d0e72a35b5b2ef2e.json",
+					"name" : "05hebing_guozi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05mo_ni_dui::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05mo_ni_dui-Debug-f48a0518787fd69d0f0b.json",
+					"name" : "05mo_ni_dui",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05qianzhuihe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05qianzhuihe-Debug-c049ad8b239950d7113f.json",
+					"name" : "05qianzhuihe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05shude_zhongxin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05shude_zhongxin-Debug-c0bc558ac2591273f4d7.json",
+					"name" : "05shude_zhongxin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05wanquan_beibao_best::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05wanquan_beibao_best-Debug-87650cba1c05c7086973.json",
+					"name" : "05wanquan_beibao_best",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06chafen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06chafen-Debug-d1d403c8bb5d44d7eec4.json",
+					"name" : "06chafen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06dan_diao_dui_lie::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06dan_diao_dui_lie-Debug-0733e7d84c4200fb2de2.json",
+					"name" : "06dan_diao_dui_lie",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06dochong_beibao::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06dochong_beibao-Debug-c0f3ffcff6c5468c2ee1.json",
+					"name" : "06dochong_beibao",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06erwei_qianzhuihe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06erwei_qianzhuihe-Debug-9094d019f8f4144a2d9f.json",
+					"name" : "06erwei_qianzhuihe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06qu_jian_he::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06qu_jian_he-Debug-ffb959b25dc4abe03a70.json",
+					"name" : "06qu_jian_he",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06tuzhongdiande_cengci::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06tuzhongdiande_cengci-Debug-598a21e521d1b15de556.json",
+					"name" : "06tuzhongdiande_cengci",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07duochong_beibao_better::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07duochong_beibao_better-Debug-ff31b9ed27a043db494a.json",
+					"name" : "07duochong_beibao_better",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07erweichaifen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07erweichaifen-Debug-a7d0e58375522ab59e9f.json",
+					"name" : "07erweichaifen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07kmp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07kmp-Debug-247efc1489afe2c44738.json",
+					"name" : "07kmp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07qu_jian_he_bing::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07qu_jian_he_bing-Debug-62fb6c966dacfba1c27c.json",
+					"name" : "07qu_jian_he_bing",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07tuopu_xulie::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07tuopu_xulie-Debug-6cc0d08ab2d6682051f1.json",
+					"name" : "07tuopu_xulie",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bsearch::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bsearch-Debug-6143d1a7560068283891.json",
+					"name" : "bsearch",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bsearch_shu_de_fan_wei::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bsearch_shu_de_fan_wei-Debug-e8a14d8526b875118652.json",
+					"name" : "bsearch_shu_de_fan_wei",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "float_bsearch_kaipingfang::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-float_bsearch_kaipingfang-Debug-d0ca15e9f9464b3aaaff.json",
+					"name" : "float_bsearch_kaipingfang",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "large_number_addition::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-large_number_addition-Debug-3d3d477b2548380cd38e.json",
+					"name" : "large_number_addition",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "large_number_division::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-large_number_division-Debug-5f0a45c869e9c728caa7.json",
+					"name" : "large_number_division",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "merge_sort_answer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-merge_sort_answer-Debug-a642275e9062ef36b933.json",
+					"name" : "merge_sort_answer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "quick_sort_answer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-quick_sort_answer-Debug-7e2cc46c0aad8abc604d.json",
+					"name" : "quick_sort_answer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stl-Debug-7c9ebb4fbd1aacb3011e.json",
+					"name" : "stl",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/sun/CLionProjects/acwing/cmake-build-debug",
+		"source" : "/home/sun/CLionProjects/acwing"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
