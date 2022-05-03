@@ -59,5 +59,13 @@
 /home/sun/CLionProjects/acwing/cmake-build-debug/CMakeFiles/05wanquan_beibao_best.dir
 /home/sun/CLionProjects/acwing/cmake-build-debug/CMakeFiles/06dochong_beibao.dir
 /home/sun/CLionProjects/acwing/cmake-build-debug/CMakeFiles/07duochong_beibao_better.dir
+/home/sun/CLionProjects/acwing/cmake-build-debug/CMakeFiles/08fenzu_beibao.dir
+/home/sun/CLionProjects/acwing/cmake-build-debug/CMakeFiles/01shuzi_sanjiaoxing.dir
+/home/sun/CLionProjects/acwing/cmake-build-debug/CMakeFiles/00shuzi_sanjiaoxing.dir
+/home/sun/CLionProjects/acwing/cmake-build-debug/CMakeFiles/02zuichang_shangshengzixulie.dir
+/home/sun/CLionProjects/acwing/cmake-build-debug/CMakeFiles/03zuichang_shangshengzixulie.dir
+/home/sun/CLionProjects/acwing/cmake-build-debug/CMakeFiles/04zuichang_gonggongzixulie.dir
+/home/sun/CLionProjects/acwing/cmake-build-debug/CMakeFiles/05shizi_hebing.dir
+/home/sun/CLionProjects/acwing/cmake-build-debug/CMakeFiles/01zhengshu_huafen.dir
 /home/sun/CLionProjects/acwing/cmake-build-debug/CMakeFiles/edit_cache.dir
 /home/sun/CLionProjects/acwing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
